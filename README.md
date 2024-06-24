@@ -22,6 +22,6 @@ the Edit Screen and the Delete button.
 
 Reason of having two versions:
 1. Zharlaw finished his tasks from 1-3 but I failed to communicate that I am doing my tasks. To ensure his grades won't get affected of my
-submission, he created the other functionality.
+submission, he created the other functionalities and submitted it on time.
 2. I am sick since Friday and I went to church, then it got worsen on Saturday night. I woke up late Sunday and rushed to create my tasks.
 Thus, we decided that I will create my own version to not affect the submitted files for the initial repository was submitted on time.
